@@ -1,0 +1,1 @@
+set = {} #this is the way to declare an empty dictionary DONOT confuse it with an empty set 

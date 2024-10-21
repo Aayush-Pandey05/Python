@@ -1,0 +1,2 @@
+Fruits=[]
+a = input(enter)
